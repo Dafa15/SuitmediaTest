@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SuitmediaTest</string>
+    <string name="name">Name</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="text_check">CHECK</string>
+    <string name="text_next">NEXT</string>
+    <string name="tv_toolbar">Title</string>
+    <string name="welcome">Welcome</string>
+    <string name="default_userName">John Doe</string>
+    <string name="selected_userName">Selected User Name</string>
+    <string name="choose_a_user">Choose a User</string>
+    <string name="empty_list">The list is empty</string>
+</resources>
